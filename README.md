@@ -5,7 +5,7 @@ A responsive web application for browsing movies, series, and anime. This projec
 ### ✨ [Live Demo](https://ephemeral-daifuku-906f3b.netlify.app/)
 
 
-![Movie Hub Screenshot](<img width="1920" height="1080" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/93a220aa-aa9c-45e3-821a-7e3e213e319f" />
+![Movie Hub Screenshot](<img width="1920" height="1080" alt="Screenshot (19)" src="https://github.com/Divyansh1-3/Movie-Hub/blob/main/Screenshot%20(19).png" >
 )
 
 ---
