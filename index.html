@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Movie/Series/Anime Hub</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <h1>🎬 Movie/Series/Anime Hub</h1>
+    <nav>
+      <a href="index.html" id="homeBtn">Home</a>
+      <a href="login.html">Login</a>
+      <a href="#" id="watchlistBtn">Watchlist</a>
+    </nav>
+  </header>
+
+  <main>
+    <div class="controls">
+      <select id="genreFilter">
+        <option value="all">All Genres</option>
+        <option value="Movie">Movies</option>
+        <option value="Series">Series</option>
+        <option value="Anime">Anime</option>
+      </select>
+
+      <select id="sortBy">
+        <option value="default">Sort By</option>
+        <option value="ratingHigh">Rating: High → Low</option>
+        <option value="ratingLow">Rating: Low → High</option>
+      </select>
+    </div>
+
+    <div class="movies-container" id="movieContainer"></div>
+
+    <div class="pagination" id="pagination"></div>
+  </main>
+
+  <div id="movieModal" class="modal">
+    <div class="modal-content">
+      </div>
+  </div>
+
+  <footer>
+    <p>&copy; 2025 Divyansh Movie Site</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
