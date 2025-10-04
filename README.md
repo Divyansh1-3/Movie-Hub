@@ -2,7 +2,7 @@
 
 A responsive web application for browsing movies, series, and anime. This project was built as a portfolio piece to demonstrate core frontend development skills using vanilla JavaScript, HTML5, and CSS3.
 
-### ✨ [Live Demo](https://Divyansh1-3.github.io/Movie-Hub/)
+### ✨ [Live Demo](https://ephemeral-daifuku-906f3b.netlify.app/)
 
 
 ![Movie Hub Screenshot](<img width="1920" height="1080" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/93a220aa-aa9c-45e3-821a-7e3e213e319f" />
