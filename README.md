@@ -34,27 +34,6 @@ A responsive web application for browsing movies, series, and anime. This projec
 
 ---
 
-## ⚙️ How To Run Locally
-
-To run this project on your local machine, follow these simple steps:
-
-1.  **Clone the repository:**
-    ```sh
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-    ```
-
-2.  **Navigate to the project directory:**
-    ```sh
-    cd your-repo-name
-    ```
-
-3.  **Open the `index.html` file in your browser:**
-    You can do this by double-clicking the `index.html` file in your file explorer.
-
-And that's it! The website should be running locally in your browser.
-
----
-
 ## 📈 Future Improvements
 
 While this project is complete for its initial scope, here are some features that could be added in the future:
